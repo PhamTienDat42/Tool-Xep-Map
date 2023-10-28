@@ -1,0 +1,16 @@
+05 ..D.....D.E.AAD.E.BBCCF.....F....... 62
+05 xCCH....GH..AAG.......x.EEFFI.....I. 61
+05 EBBB..E..F..EAAF..CC.x.............. 53
+05 .BBBCC..E..FAAE..F.....x............ 52
+05 ....x...x.G.AAF.G...FDDD......EEE... 44
+05 G.....GBBCCCGAA..H.....H.xEEFF...... 43
+05 xCCG....EG..AAE.....Fx....F.....F... 32
+05 ....E..C..E..CAAE..C.....D.....DBBB. 30
+05 F.....FBBB..AA.G.....Gx.DDEEH.....H. 29
+05 ..FBBB..F..HE.GAAHE.G...ECCCDD...... 24
+05 .EBBB..E..G.AA..G..FCCDD.F.....F.... 18
+05 ..xCCC..F..H..FAAH..GDDD..G...EEE... 18
+05 ..CBBB..C..E..CAAE..D..F..D..F.....F 15
+05 E.....EBBBCCE.FAAH..F..H..GDDD..G... 14
+05 .EBBB..E..G..EAAG..FxDDD.F.......... 14
+05 .EBBB..E..G..EAAG..F.xDD.F.......... 14
